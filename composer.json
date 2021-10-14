@@ -2,7 +2,7 @@
     "name": "pokitdok123/pokitdok-php",
     "type": "library",
     "description": "pokitdok package",
-    "keywords": ["relevant","tags","go","here"],
+    "keywords": ["health", "healthcare", "edi", "x12", "claims", "eligibility", "provider", "doctor", "patient"],
     "homepage": "https://yourcompany.com",
     "license": "MIT",
     "authors": [
@@ -12,5 +12,13 @@
             "homepage": "http://test.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "PokitDok": "src/"
+        }
+    }
 }
