@@ -1,0 +1,16 @@
+{
+    "name": "pokitdok/pokitdok-php",
+    "type": "library",
+    "description": "pokitdok package",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pratik",
+            "email": "test@test.com",
+            "homepage": "http://test.com",
+            "role": "Developer"
+        }
+    ],
+}
